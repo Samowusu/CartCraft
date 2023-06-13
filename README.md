@@ -1,6 +1,6 @@
 # Project Title
 
-Scandiweb E-commerce Website
+CartCraft E-commerce Website
 
 ## Table of Content:
 
